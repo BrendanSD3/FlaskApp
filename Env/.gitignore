@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+auth.py
+lib/
+scripts/
+pyenv.cfg
+__pycahe__/
+
